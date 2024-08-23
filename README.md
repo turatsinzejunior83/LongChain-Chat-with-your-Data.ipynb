@@ -1,2 +1,2 @@
 # LongChain-Chat-with-your-Data.ipynb
-Using this course using on LangChain to chat with your data but an LLM in isolation 
+Using this course using on LangChain to chat with your data but an LLM in isolation knows only what it was trained on which doesn’t include your personal data, such as if you’re in company and have proprietary documents not on the internet, as well as data or articles that were written after the LLM was trained have a conversation with your own documents and get questions answered using information from those documents and using LLM
